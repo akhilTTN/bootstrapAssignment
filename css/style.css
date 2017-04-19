@@ -1,0 +1,89 @@
+.navbar-default {
+    background-color: #6b396c;
+    margin: 0;
+}
+
+h1{
+    display:inline;
+    height:0;
+    width:106px;
+    margin-left: 35px;
+}
+
+h1 a{
+    padding: 72px 0 0 0;
+    height: 0;
+    background: url("../images/logo.png") no-repeat center;
+    background-size:100%;
+    overflow: hidden;
+    display:inline-block;
+}
+
+.main {
+    background: url("../images/bk-berry.jpg") repeat-y;
+    text-align: center;
+    color: #ffffff;
+    font-family: Roboto;
+    padding-bottom: 8%;
+}
+
+h2 {
+    margin-top: 10%;
+    margin-bottom: 0;
+    color: white;
+}
+
+.horiz-line {
+    width: 40px;
+    display: inline-block;
+    height: 5px;
+    background-color: #ffffff;
+    margin: 0;
+}
+
+.item {
+ text-align: center;
+}
+
+.profile-photo {
+    text-align: center;
+    border-radius: 500px;
+    width: 100px;
+    height: 100px;
+}
+
+.opinions {
+    background-color: white;
+    color: #c86896;
+    border-radius: 7px;
+    text-align: left;
+    margin-top: 5%;
+}
+
+.filled-star {
+    color: #c86896;
+}
+.imgofpeeps {
+vertical-align: baseline;
+}
+
+.bis {
+    color: #c86896;
+}
+
+.username {
+    color: #9a9ea9;
+}
+
+.indicates {
+    margin-top: 5%;
+    bottom: -2px;
+}
+
+.round{
+    border-radius: 200%;
+}
+
+.navbar-default .navbar-nav > li > a ,h1,p{
+    color: #ffffff;
+}
